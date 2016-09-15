@@ -1,0 +1,5 @@
+C:\Users\allewellyn\Documents\Work\CodeExamples\ExceptionExample\ExceptionExample\bin\Debug\ExceptionExample.exe.config
+C:\Users\allewellyn\Documents\Work\CodeExamples\ExceptionExample\ExceptionExample\bin\Debug\ExceptionExample.exe
+C:\Users\allewellyn\Documents\Work\CodeExamples\ExceptionExample\ExceptionExample\bin\Debug\ExceptionExample.pdb
+C:\Users\allewellyn\Documents\Work\CodeExamples\ExceptionExample\ExceptionExample\obj\Debug\ExceptionExample.exe
+C:\Users\allewellyn\Documents\Work\CodeExamples\ExceptionExample\ExceptionExample\obj\Debug\ExceptionExample.pdb

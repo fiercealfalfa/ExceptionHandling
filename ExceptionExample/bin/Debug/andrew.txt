@@ -1,0 +1,17 @@
+prepare SD card
+install raspbian
+
+
+
+Orange Pi Raspbian
+Login :root
+Password: orangepi
+
+connect via ssh
+sudo apt-get -update
+sudo apt-get install apache2 -y
+test by going to http://your ip address
+cd /var/www/ (to see index.html)
+FileZilla
+connect to the pi
+transfer HTML
